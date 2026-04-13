@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+#array {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  height: 300px;
+}
+
+.bar {
+  width: 20px;
+  margin: 2px;
+  background: teal;
+}
+
+.controls {
+  margin: 10px;
+}
